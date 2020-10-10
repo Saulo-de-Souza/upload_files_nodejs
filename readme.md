@@ -105,6 +105,13 @@ module.exports = {
   },
 };
 ```
+
+### Variável de ambiente:
+
+```js
+PORT=3000
+```
+
 ### Executar:
 
 `$ npx nodemon src/server.js`
